@@ -1,7 +1,7 @@
-import Agent from './agent'
-import Animator from './animator'
-import Queue from './queue'
-import Balloon from './balloon'
+import Agent from './agent.js'
+import Animator from './animator.js'
+import Queue from './queue.js'
+import Balloon from './balloon.js'
 import { load, ready, soundsReady } from './load'
 
 const clippy = {
