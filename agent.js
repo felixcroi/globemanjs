@@ -1,4 +1,3 @@
-import $ from 'jquery'
 import Queue from './queue.js'
 import Animator from './animator.js'
 import Balloon from './balloon.js'

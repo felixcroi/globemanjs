@@ -1,5 +1,3 @@
-import $ from 'jquery'
-
 export default class Animator {
 
     constructor (el, path, data, sounds) {

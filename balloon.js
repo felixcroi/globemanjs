@@ -1,5 +1,3 @@
-import $ from 'jquery'
-
 export default class Balloon {
     constructor (targetEl) {
         this._targetEl = targetEl;

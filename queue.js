@@ -1,5 +1,3 @@
-import $ from 'jquery'
-
 export default class Queue {
     constructor (onEmptyCallback) {
         this._queue = [];

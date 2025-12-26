@@ -1,4 +1,3 @@
-import $ from 'jquery'
 import Agent from './agent.js'
 
 export class load {
