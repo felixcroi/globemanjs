@@ -1,5 +1,5 @@
 import $ from 'jquery'
-import Agent from './agent'
+import Agent from './agent.js'
 
 export class load {
     constructor (name, successCb, failCb, base_path) {
